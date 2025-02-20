@@ -1,0 +1,15 @@
+auto-translate: "false"
+auto-translate-language: en
+# FUNCTION IS CURRENTLY NOT WORKING IF YOU CHANGED TO FALSE OR TRUE
+#IT WILL ANYWAYS USE MESSAGES FROM DOWN
+
+no-permission: "&cYou dont have permission!"a
+teleporting: "&aTeleported!"
+set-spawn: "&aSuccesfully changed spawn location!"
+cooldown: "true"
+cooldown-message: "&7Teleport in &c{TIME}..."
+
+spawn-x: 0
+spawn-y: 0
+spawn-z: 0
+world: world
