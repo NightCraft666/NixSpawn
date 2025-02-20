@@ -1,0 +1,7 @@
+name: nixSpawn
+version: '1.0'
+main: pl.nixonek.nixSpawn.Main
+api-version: '1.18'
+commands:
+  spawn:
+    description: Teleports you to spawn
